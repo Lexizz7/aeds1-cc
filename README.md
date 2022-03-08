@@ -1,7 +1,7 @@
 # Algorithms and Data Structures I (2021)
 This repository contains works made by me to Algorithms and Data Structures I at PUC Minas first period.
 
-## This is a can help people that are studying C now
+## This can help people that are studying C now
 
 ## Content
 1. Basic functions/procedures
