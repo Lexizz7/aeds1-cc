@@ -1,0 +1,3 @@
+esse e um teste para o exercicio 3
+ate agora digitei 9 a's
+entao o resultado do exercicio 3 tem que dar 9

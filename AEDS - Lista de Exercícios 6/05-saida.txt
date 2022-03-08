@@ -1,0 +1,4 @@
+teste para concatenar arquivo
+essa é a primeira entrada
+segunda entrada para testar
+se esta concatenando perfeitamente

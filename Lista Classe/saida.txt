@@ -1,0 +1,5 @@
+Dados do funcionário mais velho: 
+Nome:Maria
+Idade:60
+Salário:3000.00
+Quantidade de funcionários que recebem mais de 2000: 2
